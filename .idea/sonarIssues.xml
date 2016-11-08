@@ -3,22 +3,57 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$USER_HOME$/Desktop/DEMOS/StatusBarUtil-master/library/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/DEMOS/StatusBarUtil-master/sample/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/MainActivity.java">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/BaseActivity.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/ColorActivity.java">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/ColorStatusBarActivity.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/DefaultActivity.java">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/ImageFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/ImageStatusBarActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/ImageViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/MainActivity.java">
           <value>
             <set />
           </value>
@@ -28,22 +63,17 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/SamplesListActivity.java">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/SimpleFragment.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_color.xml">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/SwipeBackActivity.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_default.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/UseInFragmentActivity.java">
           <value>
             <set />
           </value>
@@ -53,7 +83,112 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/ecar/mylibrary/SystemBarTintManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/library/src/main/java/com/ecar/mylibrary/TintHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/ecar/mylibrary/statusbarutil/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/ecar/mylibrary/statusbarutil/ColorStatusBarActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/ecar/mylibrary/statusbarutil/ImageFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/ecar/mylibrary/statusbarutil/ImageStatusBarActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/ecar/mylibrary/statusbarutil/ImageViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/ecar/mylibrary/statusbarutil/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/ecar/mylibrary/statusbarutil/SimpleFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/ecar/mylibrary/statusbarutil/SwipeBackActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/ecar/mylibrary/statusbarutil/UseInFragmentActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Road_Epark_All_N_20161031/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Road_Epark_All_N_20161031/road_epark_beijing/cityinfos/saasbeijing.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Road_Epark_All_N_20161031/road_epark_beijing/src/main/java/com/ecaray/epark/http/DataCenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Road_Epark_All_N_20161031/road_epark_beijing/src/main/java/com/ecaray/epark/parking/model/FastParkModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Road_Epark_All_N_20161031/road_epark_beijing/src/saasbeijing/res/values/appname.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/view/MainRelativeLayoutEx.java">
           <value>
             <set />
           </value>

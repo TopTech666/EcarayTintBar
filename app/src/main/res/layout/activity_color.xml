@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.ecar.ecaraytintbar.sample.ColorActivity" >
+    tools:context="com.ecar.ecaraytintbar.colorpicker.ColorActivity" >
 
     <ScrollView
         android:layout_width="match_parent"
@@ -26,7 +26,7 @@
         android:background="#CCFFFFFF"
         android:orientation="vertical" >
 
-        <com.chiralcode.colorpicker.ColorPicker
+        <com.ecar.ecaraytintbar.colorpicker.ColorPicker
             android:id="@+id/color_picker"
             android:layout_width="240dp"
             android:layout_height="wrap_content"

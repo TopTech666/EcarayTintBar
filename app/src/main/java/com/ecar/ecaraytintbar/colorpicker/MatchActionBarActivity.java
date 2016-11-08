@@ -14,24 +14,35 @@
  * limitations under the License.
  */
 
-package com.ecar.ecaraytintbar.sample;
+package com.ecar.ecaraytintbar.colorpicker;
 
+import android.annotation.TargetApi;
 import android.app.Activity;
+import android.graphics.Color;
+import android.os.Build;
 import android.os.Bundle;
+import android.view.Window;
+import android.view.WindowManager;
 
 import com.ecar.mylibrary.SystemBarTintManager;
+import com.ecar.mylibrary.TintHelper;
 import com.readystatesoftware.systembartint.sample.R;
 
-public class DefaultActivity extends Activity {
+import static com.ecar.mylibrary.TintHelper.initStatusBar;
 
-	@Override
-	protected void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_default);
+public class MatchActionBarActivity extends Activity {
 
-		SystemBarTintManager tintManager = new SystemBarTintManager(this);
-		tintManager.setStatusBarTintEnabled(true);
-		tintManager.setNavigationBarTintEnabled(true);
-	}
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        TintHelper.initStatusBar(this, R.color.red);
+        SystemBarTintManager tintManager = new SystemBarTintManager(this);
+        tintManager.setNavigationBarTintColor(R.color.actionbar_bg);
+        tintManager.setStatusBarAlpha(0.2f);
+
+        setContentView(R.layout.activity_match_actionbar);
+
+    }
+
 
 }

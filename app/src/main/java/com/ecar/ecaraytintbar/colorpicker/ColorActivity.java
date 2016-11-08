@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ecar.ecaraytintbar.sample;
+package com.ecar.ecaraytintbar.colorpicker;
 
 import android.app.Activity;
 import android.graphics.Color;
@@ -26,7 +26,6 @@ import android.widget.Button;
 import com.ecar.ecaraytintbar.colorpicker.ColorPicker;
 import com.ecar.mylibrary.SystemBarTintManager;
 import com.readystatesoftware.systembartint.sample.R;
-
 
 public class ColorActivity extends Activity {
 
@@ -46,7 +45,8 @@ public class ColorActivity extends Activity {
 		mColorPicker = (ColorPicker) findViewById(R.id.color_picker);
 		applySelectedColor();
 
-		mButton = (Button) findViewById(R.id.button);
+		mButton = (
+		Button) findViewById(R.id.button);
 		mButton.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {

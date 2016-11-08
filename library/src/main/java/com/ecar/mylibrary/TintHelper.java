@@ -35,13 +35,14 @@ public class TintHelper {
      * @param   activity:需要设置的activity  color：状态栏颜色值  R.color.xxx
      * @return
      */
-    public static  void initStatusBar(Activity activity, int color){
+    public static  SystemBarTintManager initStatusBar(Activity activity, int color){
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
             setTranslucentStatus(activity,true);
         }
         SystemBarTintManager tintManager = new SystemBarTintManager(activity);
         tintManager.setStatusBarTintEnabled(true);
         tintManager.setStatusBarTintResource(color);
+        return tintManager;
     }
 
     private static void setTranslucentStatus(Activity activity, boolean on) {
