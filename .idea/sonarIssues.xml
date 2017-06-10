@@ -3,6 +3,16 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Desktop/DEMOS/StatusBarUtil-master/library/build.gradle">
           <value>
             <set />
@@ -74,6 +84,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraytintbar/sample/UseInFragmentActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_image_view.xml">
           <value>
             <set />
           </value>
@@ -178,12 +193,147 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Road_Epark_All_N_20161031/road_epark_beijing/src/main/java/com/ecaray/epark/parking/ui/activity/FastParkActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../Road_Epark_All_N_20161031/road_epark_beijing/src/saasbeijing/res/values/appname.xml">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/anim/push_left_in.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/layout/activity_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/layout/activity_mybag.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/layout/fragment_near.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/layout/fragment_park.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/layout/fragment_user.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/layout/include_near_park_none_data.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/values-hdpi/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/values-xhdpi/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/values-xxhdpi/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/values-xxxhdpi/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/activity/ParkNearViewFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/activity/ParkUserFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/activity/ParkingFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/activity/StartActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/activity/parking/FastParkActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/activity/parking/ParkAddTimeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/activity/user/MyBagActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/util/AppUiUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shenzhen_ui/sz_parkfee/src/com/szchmtech/parkingfee/util/DataFormatUtil.java">
           <value>
             <set />
           </value>
