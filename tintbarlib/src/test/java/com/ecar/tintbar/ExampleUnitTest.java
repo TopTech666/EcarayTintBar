@@ -1,4 +1,4 @@
-package com.ecar.mylibrary;
+package com.ecar.tintbar;
 
 import org.junit.Test;
 

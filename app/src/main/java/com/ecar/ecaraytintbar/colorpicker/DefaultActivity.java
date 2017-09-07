@@ -19,7 +19,7 @@ package com.ecar.ecaraytintbar.colorpicker;
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.ecar.mylibrary.SystemBarTintManager;
+import com.ecar.tintbar.SystemBarTintManager;
 import com.readystatesoftware.systembartint.sample.R;
 
 public class DefaultActivity extends Activity {

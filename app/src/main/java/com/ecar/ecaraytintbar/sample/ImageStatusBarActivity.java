@@ -7,7 +7,7 @@ import android.widget.RelativeLayout;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.ecar.mylibrary.StatusBarUtil;
+import com.ecar.tintbar.StatusBarUtil;
 import com.readystatesoftware.systembartint.sample.R;
 
 

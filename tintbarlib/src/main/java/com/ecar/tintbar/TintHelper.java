@@ -1,4 +1,4 @@
-package com.ecar.mylibrary;/*
+package com.ecar.tintbar;/*
  *===============================================
  *
  * 文件名:${type_name}

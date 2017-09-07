@@ -2,7 +2,7 @@ package com.ecar.ecaraytintbar.sample;
 
 import android.support.v7.app.AppCompatActivity;
 
-import com.ecar.mylibrary.StatusBarUtil;
+import com.ecar.tintbar.StatusBarUtil;
 import com.readystatesoftware.systembartint.sample.R;
 
 

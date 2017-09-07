@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 
 import com.ashokvarma.bottomnavigation.BottomNavigationBar;
 import com.ashokvarma.bottomnavigation.BottomNavigationItem;
-import com.ecar.mylibrary.StatusBarUtil;
+import com.ecar.tintbar.StatusBarUtil;
 import com.readystatesoftware.systembartint.sample.R;
 
 import java.util.ArrayList;

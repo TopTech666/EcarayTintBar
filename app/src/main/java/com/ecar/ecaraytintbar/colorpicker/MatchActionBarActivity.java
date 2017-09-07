@@ -16,19 +16,12 @@
 
 package com.ecar.ecaraytintbar.colorpicker;
 
-import android.annotation.TargetApi;
 import android.app.Activity;
-import android.graphics.Color;
-import android.os.Build;
 import android.os.Bundle;
-import android.view.Window;
-import android.view.WindowManager;
 
-import com.ecar.mylibrary.SystemBarTintManager;
-import com.ecar.mylibrary.TintHelper;
+import com.ecar.tintbar.SystemBarTintManager;
+import com.ecar.tintbar.TintHelper;
 import com.readystatesoftware.systembartint.sample.R;
-
-import static com.ecar.mylibrary.TintHelper.initStatusBar;
 
 public class MatchActionBarActivity extends Activity {
 

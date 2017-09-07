@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EcarayTintBar.iml" filepath="$PROJECT_DIR$/EcarayTintBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TechTintBar.iml" filepath="$PROJECT_DIR$/TechTintBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tintbarlib/tintbarlib.iml" filepath="$PROJECT_DIR$/tintbarlib/tintbarlib.iml" />
     </modules>
   </component>
 </project>

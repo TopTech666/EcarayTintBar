@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ecar.mylibrary;
+package com.ecar.tintbar;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;

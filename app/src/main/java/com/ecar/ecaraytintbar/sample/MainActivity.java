@@ -3,8 +3,6 @@ package com.ecar.ecaraytintbar.sample;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.widget.DrawerLayout;
-import android.support.v7.app.ActionBarDrawerToggle;
-import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
@@ -12,10 +10,8 @@ import android.widget.CheckBox;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.ecar.mylibrary.StatusBarUtil;
+import com.ecar.tintbar.StatusBarUtil;
 import com.readystatesoftware.systembartint.sample.R;
-
-import static android.R.id.toggle;
 
 
 /**

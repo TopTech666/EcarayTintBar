@@ -1,4 +1,4 @@
-package com.ecar.mylibrary;
+package com.ecar.tintbar;
 
 import android.content.Context;
 import android.util.AttributeSet;
